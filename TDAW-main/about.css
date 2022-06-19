@@ -1,0 +1,25 @@
+.about__hero {
+  background-image: url('../img/principal.jpeg');
+  height: 25vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center ;
+  padding: 2rem 1rem 0;
+  display: flex;
+  gap: 1rem;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 4rem;
+}
+
+.about__hero__description {
+  color: var(--blanco);
+  background-color: var(--opaco);
+  width: 100%;
+  padding: 1rem;
+  position: relative;
+  top: 2rem;
+  border-radius: .5rem;
+  line-height: 1.4rem;
+  box-shadow: var(--shadow);
+}
