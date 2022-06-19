@@ -1,1 +1,0 @@
-prompt("¡has comprado tus boletos");
